@@ -1,6 +1,6 @@
 ---
 title: 'Week 11 HW: Building Genomes'
-weight: 10
+weight: 110
 ---
 #### Part A: The 1,536 Pixel Artwork Canvas | Collective Artwork
 

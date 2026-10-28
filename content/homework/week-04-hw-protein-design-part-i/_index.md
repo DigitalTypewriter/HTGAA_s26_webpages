@@ -1,6 +1,6 @@
 ---
 title: 'Week 4 HW: Protein Design Part I'
-weight: 10
+weight: 40
 ---
 ## COPT1 AlphaFold
 <script src="https://3Dmol.org/build/3Dmol.js"></script>

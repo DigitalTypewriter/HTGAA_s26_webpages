@@ -1,6 +1,6 @@
 ---
 title: 'Week 6 HW: Genetic Circuits Part I'
-weight: 10
+weight: 60
 ---
 ## Assignment: DNA Assembly
 Answer these questions about the protocol in this week’s lab:

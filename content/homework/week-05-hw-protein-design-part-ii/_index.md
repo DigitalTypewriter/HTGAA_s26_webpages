@@ -1,6 +1,6 @@
 ---
 title: 'Week 5 HW: Protein Design Part II'
-weight: 10
+weight: 50
 ---
 ## Part A: SOD1 Binder Peptide Design (From Pranam)
 ### Part 1: Generate Binders with PepMLM

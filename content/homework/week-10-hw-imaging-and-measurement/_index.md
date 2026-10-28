@@ -1,6 +1,6 @@
 ---
 title: 'Week 10 HW: Advanced Imaging & Measurement Technology'
-weight: 10
+weight: 100
 ---
 Homework: Final Project<br>
 For your final project:

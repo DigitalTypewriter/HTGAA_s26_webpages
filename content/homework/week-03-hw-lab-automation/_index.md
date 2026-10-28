@@ -1,6 +1,6 @@
 ---
 title: 'Week 3 HW: Lab Automation'
-weight: 10
+weight: 30
 ---
 | GUI design                            | Opentron                            |
 | ----------------------------------- | ----------------------------------- |

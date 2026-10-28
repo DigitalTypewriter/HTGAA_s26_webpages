@@ -1,6 +1,6 @@
 ---
 title: 'Week 9 HW: Cell Free Systems'
-weight: 10
+weight: 90
 ---
 Homework Part A: General and Lecturer-Specific Questions
 General homework questions

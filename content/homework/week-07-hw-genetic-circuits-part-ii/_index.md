@@ -1,6 +1,6 @@
 ---
 title: 'Week 7 HW: Genetic Circuits Part II'
-weight: 10
+weight: 70
 ---
 ## Assignment Part 1: Intracellular Artificial Neural Networks (IANNs)
 1. What advantages do IANNs have over traditional genetic circuits, whose input/output behaviors are Boolean functions?
